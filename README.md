@@ -6,7 +6,7 @@ Here are some of my featured projects that demonstrate my work across different 
 - [**GeekStreak Twitter Bot**](https://github.com/ArujAnand/GeekStreak-Twitter-bot) 
   *Automates daily tweet posting for #gfg160 challenges with image, hashtags, and day tracking.*
 
-- [**OnionGuard: Storage & Rot Detection**](https://github.com/ArujAnand/shiny-system)  
+- [**OnionGuard: Storage & Rot Detection**](https://github.com/ArujAnand/OnionGuard)  
   *An embedded system project that detects rotting of onions using ammonia sensor and monitors onion storage using sensors maintaing optimum climate control.*
 
 - [**Ticket Booking System-Java**](https://github.com/ArujAnand/Ticket-booking)  
