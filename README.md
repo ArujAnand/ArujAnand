@@ -5,6 +5,9 @@ I'm Aruj - I am interested in development, CTFs. Currently working on my backend
 Here are some of my featured projects that demonstrate my work across different domains:
 - [**GeekStreak Twitter Bot**](https://github.com/ArujAnand/GeekStreak-Twitter-bot) 
   *Automates daily tweet posting for #gfg160 challenges with image, hashtags, and day tracking.*
+
+- [**OnionGuard: Storage & Rot Detection**](https://github.com/ArujAnand/shiny-system)  
+  *An embedded system project that detects rotting of onions using ammonia sensor and monitors onion storage using sensors maintaing optimum climate control.*
 <!--
 **ArujAnand/ArujAnand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
