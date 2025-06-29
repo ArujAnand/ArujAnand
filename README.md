@@ -8,6 +8,9 @@ Here are some of my featured projects that demonstrate my work across different 
 
 - [**OnionGuard: Storage & Rot Detection**](https://github.com/ArujAnand/shiny-system)  
   *An embedded system project that detects rotting of onions using ammonia sensor and monitors onion storage using sensors maintaing optimum climate control.*
+
+- [**Ticket Booking System-Java**](https://github.com/ArujAnand/Ticket-booking)  
+  *A console-based application to simulate ticket booking operations with basic CRUD and file handling using Jackson library.*
 <!--
 **ArujAnand/ArujAnand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
