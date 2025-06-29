@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Aruj - I am interested in development, CTFs. Currently I am working on my backend skills.
+I'm Aruj - I am interested in development, CTFs. Currently I am working on my backend skills.<br>
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 <!--
 **ArujAnand/ArujAnand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
