@@ -1,6 +1,10 @@
 ## Hi there 👋
-I'm Aruj - I am interested in development, CTFs. Currently I am working on my backend skills.<br>
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+I'm Aruj - I am interested in development, CTFs. Currently working on my backend skills.<br>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql&perline=4&theme=light)](https://skillicons.dev)
+## If You're Here for Projects, Check These Out
+Here are some of my featured projects that demonstrate my work across different domains:
+- [**GeekStreak Twitter Bot**](https://github.com/ArujAnand/GeekStreak-Twitter-bot) 
+  *Automates daily tweet posting for #gfg160 challenges with image, hashtags, and day tracking.*
 <!--
 **ArujAnand/ArujAnand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
