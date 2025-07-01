@@ -11,6 +11,18 @@ Here are some of my featured projects that demonstrate my work across different 
 
 - [**Ticket Booking System-Java**](https://github.com/ArujAnand/Ticket-booking)  
   *A console-based application to simulate ticket booking operations with basic CRUD and file handling using Jackson library.*
+
+## Technical Skills & Tools I’ve Worked With
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py&perline=4&theme=light)](https://skillicons.dev)
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=git,postman,maven&perline=4&theme=light)](https://skillicons.dev)
+### Frameworks
+[![My Skills](https://skillicons.dev/icons?i=spring&perline=4&theme=light)](https://skillicons.dev)
+### Cloud & Databases
+[![My Skills](https://skillicons.dev/icons?i=gcp,mysql&perline=4&theme=light)](https://skillicons.dev)
+### Others
+- Arduino, React, Assembly 
 <!--
 **ArujAnand/ArujAnand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
