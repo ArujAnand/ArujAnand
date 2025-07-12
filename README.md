@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Aruj - I am interested in development, CTFs. Currently working on my backend skills.<br>
+I'm Aruj - I am interested in development. Currently working on my backend skills.<br>
 [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql&perline=4&theme=light)](https://skillicons.dev)
 ## If You're Here for Projects, Check These Out
 Here are some of my featured projects that demonstrate my work across different domains:
@@ -14,7 +14,7 @@ Here are some of my featured projects that demonstrate my work across different 
 
 ## Technical Skills & Tools I’ve Worked With
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py&perline=4&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py&perline=4&theme=light)](https://skillicons.dev)
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=git,postman,maven&perline=4&theme=light)](https://skillicons.dev)
 ### Frameworks
