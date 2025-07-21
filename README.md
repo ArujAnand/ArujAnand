@@ -9,8 +9,11 @@ Here are some of my featured projects that demonstrate my work across different 
 - [**OnionGuard: Storage & Rot Detection**](https://github.com/ArujAnand/OnionGuard)  
   *An embedded system project that detects rotting of onions using ammonia sensor and monitors onion storage using sensors maintaing optimum climate control.*
 
-- [**Ticket Booking System-Java**](https://github.com/ArujAnand/Ticket-booking)  
+- [**Ticket Booking System**](https://github.com/ArujAnand/Ticket-booking)  
   *A console-based application to simulate ticket booking operations with basic CRUD and file handling using Jackson library.*
+
+- [**Journaling Application**](https://github.com/ArujAnand/Journal-App)  
+  *Built with Spring Boot and MongoDB, this application allows users to securely authenticate and save personal journal entries.*
 
 ## Technical Skills & Tools I’ve Worked With
 ### Languages
