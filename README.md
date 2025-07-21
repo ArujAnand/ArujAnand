@@ -20,7 +20,7 @@ Here are some of my featured projects that demonstrate my work across different 
 ### Frameworks
 [![My Skills](https://skillicons.dev/icons?i=spring&perline=4&theme=light)](https://skillicons.dev)
 ### Cloud & Databases
-[![My Skills](https://skillicons.dev/icons?i=gcp,mysql&perline=4&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql&perline=4&theme=light)](https://skillicons.dev)
 ### Others
 - Arduino, React, Assembly 
 <!--
